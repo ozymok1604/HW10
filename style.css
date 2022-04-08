@@ -1,0 +1,87 @@
+
+
+.blocks{
+    background-image: url(https://vikna.if.ua/assets/gallery/2018/07/26/87814/1__large.jpg);
+}
+
+
+
+#cityBlock{
+    background-color: rgba(0, 0, 0, 0.682);
+    font-size:2cm;
+    text-align: center;
+    color:white;
+    
+}
+
+#temperature{
+    font-size:2cm;
+     color:white;
+     background-color: rgba(0, 0, 0, 0.682);
+     height: 4cm;
+     
+
+    
+}
+
+#details{
+    background-color: rgba(0, 0, 0, 0.682);
+    height: 1cm;
+    font-size: 1cm;
+    color: white;
+    text-align: center;
+
+}
+
+#time{
+    background-color: rgba(0, 0, 0, 0.682);
+    text-align: center;
+    color: white;
+}
+
+/* .more{
+    display:inline-flex;
+    background-color: rgba(0, 0, 0, 0.682);
+    
+    right: inherit;
+} */
+
+#wind{
+    background-color: rgba(0, 0, 0, 0.682);
+    color: aliceblue;
+
+}
+
+#pressure{
+    background-color: rgba(0, 0, 0, 0.682);
+    color: aliceblue;
+}
+
+#humidity{
+    right:auto ;
+    color: aliceblue;
+    background-color: rgba(0, 0, 0, 0.682);
+}
+
+#searching{
+    background-color: rgba(0, 0, 0, 0.682);
+    height: 8cm;
+    text-align: center;
+}
+
+#button{
+    background-color: darkgreen;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 0.8cm;
+}
+
+#label{
+    font-size: 0.8cm;
+    color: white;
+
+}
+#input{
+    font-size: 0.5cm;
+    height: 1cm;
+    border-style: dashed ;
+}
